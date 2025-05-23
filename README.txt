@@ -1,6 +1,6 @@
 # S3NT1N3L
 
-![S3NT1N3L Icon](clipwarden.png)
+![S3NT1N3L Icon](./clipwarden.png)
 
 S3NT1N3L is a privacy-focused clipboard manager for macOS that captures and categorises clipboard history — text and images — with intelligent tagging, sensitive data masking, and powerful local-only search and filtering.
 
@@ -21,11 +21,11 @@ Modern dark UI, keyboard-friendly navigation
 
 ## Preview
 
-![Screenshot of UI](preview.png)
+![Screenshot of UI](./preview.png)
 
 ## Getting Started
 
-[Download the Getting Started Guide (PDF)](S3NT1N3L-Getting-Started-Guide.pdf)
+[Download the Getting Started Guide (PDF)](./S3NT1N3L-Getting-Started-Guide.pdf)
 
 ## Learn More / Purchase
 
